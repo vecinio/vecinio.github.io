@@ -69,10 +69,9 @@ section {
     padding: 8px 10px;
     color: #222222; }
   #mainNav .navbar-nav > li > a {
-    font-size: 11px;
+    font-size: 15px;
     font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
-    letter-spacing: 2px;
-    text-transform: uppercase; }
+    letter-spacing: 2px; }
     #mainNav .navbar-nav > li > a.active {
       color: #45B6F2 !important;
       background-color: transparent; }
@@ -94,7 +93,7 @@ section {
           color: white; }
       #mainNav .navbar-nav > li > a,
       #mainNav .navbar-nav > li > a:focus {
-        color: rgba(255, 255, 255, 0.7); }
+        color: rgba(255, 255, 255, 1); }
         #mainNav .navbar-nav > li > a:hover,
         #mainNav .navbar-nav > li > a:focus:hover {
           color: white; }
